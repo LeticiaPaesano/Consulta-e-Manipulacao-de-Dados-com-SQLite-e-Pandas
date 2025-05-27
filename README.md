@@ -1,4 +1,4 @@
-# Projeto: Consulta e Manipulação de Dados com SQLite e Pandas
+# Consulta e Manipulação de Dados com SQLite e Pandas
 
 Este projeto demonstra como realizar a **integração entre pandas e SQLAlchemy** para criar um banco de dados SQLite em memória, realizar operações de leitura, filtragem, inserção, exclusão e atualização de dados utilizando comandos SQL e a biblioteca `pandas`.
 
