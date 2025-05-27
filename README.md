@@ -1,0 +1,1 @@
+# Consulta-e-Manipulacao-de-Dados-com-SQLite-e-Pandas
